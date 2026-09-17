@@ -4,7 +4,9 @@ Main branch update
 
 GitHub Project
 
-This project is created to practice Git and GitHub commands.
+This project is created to practice Git and GitHub commands
+
+Student Management Project - Branch Version.
 
 Student Management Project - Main Version.
 
